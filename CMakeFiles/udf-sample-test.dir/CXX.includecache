@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cloudera/rogerrrr/impala-udf-utf8/udf-sample-test.cc
+iostream
+-
+impala_udf/udf-test-harness.h
+-
+udf-sample.h
+/home/cloudera/rogerrrr/impala-udf-utf8/udf-sample.h
+
+/home/cloudera/rogerrrr/impala-udf-utf8/udf-sample.h
+impala_udf/udf.h
+-
+

@@ -1,0 +1,4 @@
+/home/cloudera/rogerrrr/impala-udf-utf8/CMakeFiles/uda-sample-test.dir
+/home/cloudera/rogerrrr/impala-udf-utf8/CMakeFiles/udasample.dir
+/home/cloudera/rogerrrr/impala-udf-utf8/CMakeFiles/udf-sample-test.dir
+/home/cloudera/rogerrrr/impala-udf-utf8/CMakeFiles/udfsample.dir
