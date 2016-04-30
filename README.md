@@ -3,6 +3,8 @@ This repo contains sample user defined functions (UDFs) and user defined aggrega
 To get started: 
 
 1. Install the impala udf development package: <http://archive.cloudera.com/cdh5/>
+   yum install gcc-c++ cmake boost-devel glib2-devel
+   yum install impala-udf-devel
 2. cmake .
 3. make
 
