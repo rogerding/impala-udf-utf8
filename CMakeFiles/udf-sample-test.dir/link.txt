@@ -1,1 +1,0 @@
-/usr/bin/c++    -I/usr/include/glib-2.0 -I/usr/lib64/glib-2.0/include -lglib-2.0    CMakeFiles/udf-sample-test.dir/udf-sample-test.cc.o  -o build/udf-sample-test -rdynamic build/libudfsample.so -lImpalaUdf -Wl,-rpath,/home/cloudera/rogerrrr/impala-udf-utf8/build 
