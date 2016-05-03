@@ -68,4 +68,8 @@ void ReturnConstantArgPrepare(
 void ReturnConstantArgClose(
     FunctionContext* context, FunctionContext::FunctionStateScope scope);
 
+// functions to support UTF8
+StringVal ToUpperCaseUtf8(FunctionContext* context, const StringVal& arg1);
+StringVal ToLowerCaseUtf8(FunctionContext* context, const StringVal& arg1);
+
 #endif
